@@ -52,13 +52,13 @@ images/Captura de Tela mobile format.png
 
 **.-----------------------------------------------------------------------------------------------------------.**
 ## Autor
-- Website - [Adicione seu nome aqui](https://karinazimerer.46graus.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Karina Zimerer](https://karinazimerer.46graus.com)
+- Frontend Mentor - [Karina zimerer](https://www.frontendmentor.io/profile/yourusername)
 - [Autor](Karina Zimerer)
 
 **.-----------------------------------------------------------------------------------------------------------.**
 ## Agradecimentos
-- [Agradecimentos](minha mentora professora Ghalba Lorraine)
+- Minha mentora professora Ghalba Lorraine
 
 **.-----------------------------------------------------------------------------------------------------------.**
 
