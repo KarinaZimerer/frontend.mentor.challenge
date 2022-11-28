@@ -12,7 +12,7 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codif
 ### Links
 ## Meu processo
 ### Construído com
-### O que eu aprendi
+### Aprendizagem
 ### Desenvolvimento contínuo
 ### Recursos úteis
 ## Autor
